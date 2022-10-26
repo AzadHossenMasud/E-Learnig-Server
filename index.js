@@ -14,6 +14,16 @@ app.get('/', (req, res) => {
 app.get('/catagories', (req, res) => {
   res.send(catagories)
 })
+app.get('/catagory/:id', (req, res) => {
+    const id = req.params.id;
+    if (id === '06') {
+        res.send(courses);
+    }
+    else {
+        const category_course = courses.filter(n => n.category_id === id);
+        res.send(category_course);
+    }
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
