@@ -1,0 +1,199 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_sell": 488,
+        "title": "Javascript for Beginners",
+        "author": {
+            "name": "Doller Design School",
+            "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://image.shutterstock.com/image-vector/javascript-programming-language-script-code-260nw-1062509657.jpg",
+        "details": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+        "overview": [
+            "Extensive, informative and interesting video lecture",
+            "Complete Code demonstrated in lecture",
+            "Lab Exercises",
+            "Lab Solution Sets"
+        ]
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_sell": 488,
+        "title": "The Complete 2020 Fullstack Web Developer Course",
+        "author": {
+            "name": "Kalob Taulien",
+            "published_date": "2022-08-24 17:27:34"
+        },
+        "image_url": "https://teammeta.eu/wp-content/uploads/2020/07/developer.jpg",
+        "details": "Learn HTML5, CSS3, JavaScript, Python, Wagtail CMS, PHP & MySQL from scratch!",
+        "overview": [
+            "Extensive, informative and interesting video lecture",
+            "Complete Code demonstrated in lecture",
+            "Lab Exercises",
+            "Lab Solution Sets"
+        ]
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "category_id": "01",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_sell": 400,
+        "title": "Laravel 9 -Build Complete Multi Vendor Ecommerce Project A-Z",
+        "author": {
+            "name": "Jennifer Wood",
+            "published_date": "2022-08-30 16:38:45"
+        },
+        "image_url": "https://www.cloudways.com/blog/wp-content/uploads/Laravel-9.jpg",
+        "details": "In This Course, You Will Build Two Different Projects With Laravel 9 Including Complete Multi-Vendor Ecommerce Site A-Z",
+        "overview": [
+            "Create Complete Two Projects with Laravel 9",
+            "Advance Order Tracking System",
+            "Stock Management System",
+            "User Role Management"
+        ]
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "category_id": "02",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_sell": 400,
+        "title": "Build Android Apps with App Inventor 2 - No Coding Required",
+        "author": {
+            "name": "Stone River",
+            "published_date": "2022-08-30 16:38:45"
+        },
+        "image_url": "https://www.kanhasoft.com/blog/wp-content/uploads/2018/08/android-app-development.jpg",
+        "details": "Android application,App Inventor 2,Google Play Store,Basic Programming.",
+        "overview": [
+            "Create Android Applications using App Inventor 2.",
+            "Understand how to publish created applications to the Google Play Store.",
+            "Understand how to update created applications once they have been published to the Google Play Store.",
+            "Navigate and use the App Inventor 2 interface fluidly, effectively and efficiently."
+        ]
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_sell": 980,
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "author": {
+            "name": "system",
+            "published_date": "2022-08-24 23:15:00"
+        },
+        "image_url": "https://www.hiddenbrains.com/blog/wp-content/uploads/2020/04/Swift-Development-for-iOS.jpg",
+        "details": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "overview": [
+            "You will create a portfolio of 15 apps to be able apply for junior developer jobs at a technology company",
+            "You will learn Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData.",
+            "You will learn by doing, where every lesson is incorporated into a real-world app project.",
+            "After the course, you will be able to build any app you want."
+        ]
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_sell": 980,
+        "title": "Learn C# Programming (In Ten Easy Steps)",
+        "author": {
+            "name": "system",
+            "published_date": "2022-08-24 23:15:00"
+        },
+        "image_url": "https://i.ytimg.com/vi/xIUGIq09UlM/hqdefault.jpg",
+        "details": "The simplest way to learn C# programming.",
+        "overview": [
+            "Master C# programming concepts from the ground up",
+            "Use the source code examples to learn step-by-step",
+            "Understand the special features of C#: object orientation, the .NET framework, error-handling, serialization"
+        ]
+    },
+    {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_sell": 450,
+        "title": "Tucker Carlson: Putin Winning in Ukraine, Biden Hurting West",
+        "author": {
+            "name": "Arkadiusz",
+            "published_date": "2022-08-30 15:00:04"
+        },
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2018/09/Top-Uses-Of-C.jpg",
+        "details": "Designed for people who don't have any knowledge about the programming and want to program in C++",
+        "overview": [
+            "How to make games in Unreal Engine 5.",
+            "C++, the games industry standard language.",
+            "Object Oriented Programming and how to put it into practice.",
+            "Game design principles."
+        ]
+    },
+    {
+        "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_sell": 111,
+        "title": "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games",
+        "author": {
+            "name": "system",
+            "published_date": "2022-08-25 06:03:00"
+        },
+        "image_url": "https://media.istockphoto.com/vectors/game-dev-isometric-concept-education-of-creation-3d-design-of-or-vector-id1297564630?k=20&m=1297564630&s=612x612&w=0&h=QenkclbeLXqD7NHYdVoBrm3_T4u16fg86CTGMNGdSHQ=",
+        "details": "Created in collaboration with Epic Games. Learn C++ from basics while making your first 5 video games in Unreal",
+        "overview": [
+            "How to make games in Unreal Engine 5.",
+            "C++, the games industry standard language.",
+            "Object Oriented Programming and how to put it into practice.",
+            "Game design principles."
+        ]
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_sell": 733,
+        "title": "SQL Server Essentials, from Scratch",
+        "author": {
+            "name": "Theo Minh Châu",
+            "published_date": "2022-08-25 06:03:00"
+        },
+        "image_url": "https://cpl.thalesgroup.com/sites/default/files/inline-images/microsoft-sql_server.png",
+        "details": "Step-by-Step Beginner's Training Course in SQL Server. No prior database knowledge is needed.",
+        "overview": [
+            "By the end of the course, you will have a foundation in SQL Server and the vocabulary and understanding to talk about and use SQL Server with confidence.",
+            "You will know how to navigate SQL Server Management Studio (SSMS) to find database objects and business data.",
+            "You will understand how to take advantage of Management Studio to make you work faster and more efficient.",
+            "You will understand the different pieces in SQL Server. Including, Tables, Views, Stored Procedures, Security, Backups, Indexes and Schemas to help you talk to DBA's, Programmers, IT and to sound smart when you are speaking about databases."
+        ]
+    }
+]
